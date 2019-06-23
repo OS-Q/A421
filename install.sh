@@ -24,4 +24,8 @@ function set_sdcc()
 	fi
 }
 
-set_sdcc
+str="sdcc:   "
+ret=`whereis sdcc`
+if [ ${#ret} -lt ${#str} ]; then
+	set_sdcc
+fi
