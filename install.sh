@@ -28,4 +28,6 @@ str="sdcc:   "
 ret=`whereis sdcc`
 if [ ${#ret} -lt ${#str} ]; then
 	set_sdcc
+else
+	echo -e "have config sdcc bin path \n${Line}"
 fi
