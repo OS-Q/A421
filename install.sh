@@ -1,6 +1,6 @@
 #!/bin/bash
 shellPath=`pwd`
-BINPath=$HOME/SDCC
+BINPath=$HOME/toolchain/SDCC
 
 function set_sdcc()
 {
@@ -9,7 +9,7 @@ function set_sdcc()
     	fi
     	if [ ! -f $shellPath/sdcc-x64-linux.tar.bz2 ]; then
 		cd $shellPath
-		wget -O sdcc-x64-linux.tar.bz2 https://nchc.dl.sourceforge.net/project/sdcc/snapshot_builds/amd64-unknown-linux2.5/sdcc-snapshot-amd64-unknown-linux2.5-20190622-11292.tar.bz2
+		wget -O sdcc-x64-linux.tar.bz2 https://excellmedia.dl.sourceforge.net/project/sdcc/snapshot_builds/amd64-unknown-linux2.5/sdcc-snapshot-amd64-unknown-linux2.5-20190728-11328.tar.bz2
     	fi
 	if [ ! -d  $BINPath/sdcc/bin ]; then
 		tar -xf $shellPath/sdcc-x64-linux.tar.bz2 -C $BINPath
