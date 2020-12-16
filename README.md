@@ -1,11 +1,9 @@
-﻿# [sdcc x64 bin](https://github.com/sochub/sdcc-x64)
+﻿# [SDCC](https://github.com/OS-Q/C03)
 
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
+### [简介](https://github.com/OS-Q/C03/wiki)
 
-#### 归属：[SDCC](https://github.com/sochub/SDCC) 
+[SDCC](http://sdcc.sourceforge.net/)(Small Device C Compiler)是一个优化的 ANSI-C交叉编译器，目标CPU为基于8051,80DS390,Z80和68HC03的单片机。
 
-### [sdcc x64描述](https://github.com/sochub/sdcc-x64/wiki) 
 
-sdcc- x64为作为Linux x64平台编译工具
-
-###  [SoC资源平台](http://www.qitas.cn)
+### [OS-Q = [Open Source & Operating System]](http://www.OS-Q.com)
