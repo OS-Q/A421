@@ -5,5 +5,4 @@
 
 [SDCC](http://sdcc.sourceforge.net/)(Small Device C Compiler)是一个优化的 ANSI-C交叉编译器，目标CPU为基于8051,80DS390,Z80和68HC03的单片机。
 
-
-### [OS-Q = [Open Source & Operating System]](http://www.OS-Q.com)
+### [Q = (OpenSource & OperatingSystem) ](http://www.OS-Q.com)
