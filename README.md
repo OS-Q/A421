@@ -1,8 +1,16 @@
-﻿# [SDCC](https://github.com/OS-Q/C03)
+﻿# [P42](https://github.com/OS-Q/P42)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
-### [简介](https://github.com/OS-Q/C03/wiki)
 
-[SDCC](http://sdcc.sourceforge.net/)(Small Device C Compiler)是一个优化的 ANSI-C交叉编译器，目标CPU为基于8051,80DS390,Z80和68HC03的单片机。
+[![Build Status](https://github.com/OS-Q/P42/workflows/CI/badge.svg)](https://github.com/OS-Q/P42/actions/workflows/CI.yml)
+[![Build Status](https://github.com/OS-Q/P42/workflows/CD/badge.svg)](https://github.com/OS-Q/P42/actions/workflows/CD.yml)
+[![Build Status](https://circleci.com/gh/OS-Q/P42.svg?style=svg)](https://circleci.com/gh/OS-Q/P42)
+[![Build Status](https://travis-ci.com/OS-Q/P42.svg?branch=master)](https://travis-ci.com/OS-Q/P42)
+[![Build Status](https://cloud.drone.io/api/badges/OS-Q/P42/status.svg)](https://cloud.drone.io/OS-Q/P42)
 
-### [Q = (OpenSource & OperatingSystem) ](http://www.OS-Q.com)
+### [简介](https://github.com/OS-Q/P42/wiki)
+
+[P42](https://github.com/OS-Q/P42) 适用于 [STM32W](https://www.st.com/zh/microcontrollers-microprocessors/stm32-wireless-mcus.html) 平台开发。
+
+
+### [源圈 OS-Q (Open Source & QA) ](http://www.OS-Q.com)
