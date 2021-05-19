@@ -6,3 +6,6 @@
 *.o
 .pio/
 .vscode/
+*.pdf
+*.md
+*.txt
